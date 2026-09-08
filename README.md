@@ -184,4 +184,4 @@ Cross-Sectional-Equity-Alpha-Research/
 
 ## AI Assistance
 
-I used AI as a **coding assistant** for implementation support, debugging, and documentation. Research questions, experiment design choices, interpretation of results, and final methodological decisions were made by me.
+Used AI as a **assistant** for implementation support, debugging, and documentation. Research questions, experiment design choices, interpretation of results, and final methodological decisions were made by me.
