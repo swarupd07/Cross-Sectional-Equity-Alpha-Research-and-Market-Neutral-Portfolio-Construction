@@ -1,4 +1,4 @@
-# Cross-Sectional Equity Alpha Research
+# Cross-Sectional Equity Alpha Research & & Market-Neutral Portfolio Construction
 
 A compact research project on whether simple cross-sectional equity signals can produce market-neutral long-short returns after realistic portfolio constraints and transaction costs.
 
